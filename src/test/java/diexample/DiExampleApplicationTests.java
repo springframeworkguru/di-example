@@ -1,4 +1,4 @@
-package di-example;
+package diexample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
