@@ -20,7 +20,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<start-class>di-example.DiExampleApplication</start-class>
+		<start-class>diexample.DiExampleApplication</start-class>
 		<java.version>1.7</java.version>
 	</properties>
 
